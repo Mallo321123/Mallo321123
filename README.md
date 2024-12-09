@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋, I'm Mallo321123
 
-<!--
-**Mallo321123/Mallo321123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
+- 📫 How to reach me: [mario@binary-kitchen.de]
 
-Here are some ideas to get you started:
+#### GitHub Stats
+![Mallo321123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mallo321123&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallo321123&layout=compact&theme=radical)
+
+#### Connect with me
+
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)]([https://chaos.social/@mallo32123])
