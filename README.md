@@ -4,10 +4,13 @@
 - 📫 How to reach me: [mario@binary-kitchen.de]
 
 #### GitHub Stats
-![Mallo321123's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mallo321123&show_icons=true&theme=radical)
+![mallo321123's Stats](https://github-readme-stats.vercel.app/api?username=mallo321123&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 #### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallo321123&layout=compact&theme=radical)
+![mallo321123's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mallo321123&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+#### Streaks
+![mallo321123's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mallo321123&theme=vue-dark&hide_border=true)
 
 #### Connect with me
 
